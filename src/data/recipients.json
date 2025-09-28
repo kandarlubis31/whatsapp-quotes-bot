@@ -1,0 +1,13 @@
+{
+  "recipients": [
+    {
+      "id": "user_001",
+      "name": "Kandar Lubis",
+      "phone": "whatsapp:+6283183634028",
+      "timezone": "Asia/Jakarta",
+      "active": true,
+      "preferences": ["motivation", "wisdom"],
+      "lastSent": null
+    }
+  ]
+}
